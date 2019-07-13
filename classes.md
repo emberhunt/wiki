@@ -2,7 +2,7 @@
 title: Classes
 description: Descriptions of classes that the player can choose from
 published: true
-date: 2019-07-10T20:23:28.913Z
+date: 2019-07-13T14:33:25.242Z
 tags: 
 ---
 
@@ -26,10 +26,10 @@ Berzerker deals a great amount of damage.
 Assassin is fast and silent.
 
 
-### Archer
+### Hunter
 
 ![archer.png](/archer.png)
-Archer can fight pretty well from all distances.
+Hunter can fight pretty well from afar and within a range of the spear.
 
 ### Sniper
 
