@@ -2,7 +2,7 @@
 title: Classes
 description: Descriptions of classes that the player can choose from
 published: true
-date: 2019-07-13T14:33:25.242Z
+date: 2019-07-13T18:17:41.138Z
 tags: 
 ---
 
@@ -28,7 +28,7 @@ Assassin is fast and silent.
 
 ### Hunter
 
-![archer.png](/archer.png)
+![archer.png](/hunter.png)
 Hunter can fight pretty well from afar and within a range of the spear.
 
 ### Sniper
