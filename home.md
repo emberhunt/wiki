@@ -2,7 +2,7 @@
 title: Emberhunt
 description: 
 published: true
-date: 2019-07-10T19:25:51.032Z
+date: 2019-07-17T18:02:01.129Z
 tags: 
 ---
 
@@ -22,7 +22,7 @@ This is **Emberhunt's wiki**, feel free to improve it too!
 
 ## Lore
 
-The Dark Lord has fallen, and the alliance rejoices in victory. The last battalion lies in ruins and remains of the dark army hide under the stones. Who would stand for what the Dark Lord believed in? Who would tear the broken blade out of cold hands of those who rested untimely? Pick up the blade! Burn down your foes! Gather your friends and siege the deepest dungeons, the highest peaks to reclaim the Lords power to depose the forces of the Empire! Get your best gear, grind to the highest level and march through the gates of the High Inquisitor palace!
+The Dark Lord has fallen, and the alliance rejoices in victory. The last battalion lies in ruins and remains of the dark army hide under the stones. Who would stand for what the Dark Lord believed in? Who would tear the broken blade out of the cold hands of those who rested untimely? Pick up the blade! Burn down your foes! Gather your friends and siege the deepest dungeons, the highest peaks to reclaim the Lords power to depose the forces of the Empire! Get your best gear, grind to the highest level and march through the gates of the High Inquisitor's palace!
 
 ## Wiki's topics
 
