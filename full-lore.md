@@ -1,8 +1,8 @@
 ---
-title: Backstory
+title: World lore
 description: Description of current world and how it came to this
 published: true
-date: 2019-07-17T21:25:46.654Z
+date: 2019-07-17T21:26:22.909Z
 tags: 
 ---
 
