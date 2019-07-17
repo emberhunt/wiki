@@ -2,13 +2,13 @@
 title: Classes
 description: Descriptions of classes that the player can choose from
 published: true
-date: 2019-07-13T18:17:41.138Z
+date: 2019-07-17T19:54:05.274Z
 tags: 
 ---
 
 Here's the list of the classes the player can choose from when they're creating their character.
 
-### Knight
+### [Knight](classes/knight)
 
 ![knight.png](/knight.png)
 Knight is the tankiest class in the game.
